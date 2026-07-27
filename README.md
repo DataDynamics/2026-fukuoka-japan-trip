@@ -92,12 +92,36 @@
 > 🚕 **택시 옵션**: 20명 캐리어면 지하철+도보 8분이 꽤 고됩니다. **공항 → 호텔 직행 택시 약 2,000엔 / 15분**, 4명씩 5대면 1인 500엔. 첫날만큼은 택시 분승을 추천합니다.
 > 💡 오전 도착이라 **첫날이 사실상 온전한 하루**입니다. 다만 새벽 기상(04:30~05:00)한 상태라 체력은 반나절치. 강행군은 금물.
 
-### 점심 (12:00 ~ 13:15) — 첫끼는 하카타 라멘
-도착 첫끼로 돼지뼈 육수 하카타 라멘. 전부 하카타역 도보권.
-- **[신신(Shin-Shin) 하카타역점](https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%20Shin-Shin%20%E5%8D%9A%E5%A4%9A%E3%83%87%E3%82%A4%E3%83%88%E3%82%B9%E5%BA%97)** — 맑고 깔끔한 국물, 한국인 선호 1위. 웨이팅 20~30분.
-- **[이치란 하카타역점](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E8%98%AD%20%E5%8D%9A%E5%A4%9A%E9%A7%85%E5%BA%97) / [나카스 본점](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E8%98%AD%20%E4%B8%AD%E6%B4%B2%E6%9C%AC%E5%BA%97)** — 1인 칸막이석이라 **단체는 오히려 분산이 쉬움**. 대기 짧음.
-- **[하카타 잇푸도 본점](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%A2%A8%E5%A0%82%20%E5%A4%A7%E5%90%8D%E6%9C%AC%E5%BA%97)** — 텐진 쪽, 무난하고 좌석 많음.
-- ⚠️ 라멘집은 대부분 단체 예약 불가. **팀 나눠서 2~3곳으로 흩어지는 게 현실적**입니다.
+### 점심 (12:00 ~ 13:15) — 첫끼 고르기
+
+호텔에 짐만 맡기고 바로 점심. **전부 하카타역·호텔 도보권**이며, 라멘 외에 함바그·우동까지 넣었습니다.
+
+| 장르 | 점포 (→ 타베로그 / 📍 지도) | 타베로그 | 위치 | 예산 | 특징 |
+|---|---|---|---|---|---|
+| 🍜 라멘 | **[博多一双 하카타역히가시본점](https://tabelog.com/fukuoka/A4001/A400101/40032701/)** [📍](https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E4%B8%80%E5%8F%8C%20%E5%8D%9A%E5%A4%9A%E9%A7%85%E6%9D%B1%E6%9C%AC%E5%BA%97) | **3.71** | 하카타역 574m<br>(호텔 도보 15분) | ~999엔 | **평점 최고**. 진한 돈코츠에 거품 같은 크리미한 국물. 웨이팅 30~60분 |
+| 🍜 라멘 | **[Shin-Shin 하카타 데이토스점](https://tabelog.com/fukuoka/A4001/A400101/40035362/)** [📍](https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%20Shin-Shin%20%E5%8D%9A%E5%A4%9A%E3%83%87%E3%82%A4%E3%83%88%E3%82%B9%E5%BA%97) | **3.57** | 하카타역 **102m**<br>(역 안) | ~999엔 | 👍 **동선 최적**. 맑고 깔끔한 국물, 한국인 선호 1위 |
+| 🍜 라멘 | **[名代ラーメン亭 하카타역 지하상가점](https://tabelog.com/fukuoka/A4001/A400101/40000216/)** [📍](https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E4%BB%A3%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%AD%20%E5%8D%9A%E5%A4%9A%E9%A7%85%E5%9C%B0%E4%B8%8B%E8%A1%97%E5%BA%97) | 3.59 | 하카타역 219m<br>(지하상가) | ~999엔 | 지하로 연결돼 비와도 OK. 회전 빨라 대기 짧음 |
+| 🍳 **함바그** | **[ハンバーグの水田 (미즈타)](https://tabelog.com/fukuoka/A4001/A400101/40073167/)** [📍](https://www.google.com/maps/search/?api=1&query=%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0%E3%81%AE%E6%B0%B4%E7%94%B0%20%E7%A6%8F%E5%B2%A1%20%E6%AB%9B%E7%94%B0%E7%A5%9E%E7%A4%BE%E5%89%8D) | **3.53** | 구시다신사역 191m<br>(호텔 도보 10분) | 1,000~1,999엔 | 👍 **함바그 1순위**. 평점·가격·동선 3박자. 오후 구시다신사 코스 바로 옆 |
+| 🍳 **함바그** | **[極味や 하카타점 (키와미야)](https://tabelog.com/fukuoka/A4001/A400101/40039167/)** [📍](https://www.google.com/maps/search/?api=1&query=%E6%A5%B5%E5%91%B3%E3%82%84%20%E5%8D%9A%E5%A4%9A%E5%BA%97) | 3.32 | 하카타역 211m | 1,000~1,999엔 | ⚠️ **가장 유명**. 뜨거운 돌판에 직접 구워 먹는 스타일. 단 **평점 낮고 대기 최악** |
+| 🍳 **함바그** | **[極味や 하카타역 지하상가점](https://tabelog.com/fukuoka/A4001/A400101/40067994/)** [📍](https://www.google.com/maps/search/?api=1&query=%E6%A5%B5%E5%91%B3%E3%82%84%20%E5%8D%9A%E5%A4%9A%E9%A7%85%E5%9C%B0%E4%B8%8B%E8%A1%97%E5%BA%97) | 3.10 | 하카타역 164m<br>(지하상가) | 1,000~1,999엔 | 2024년 신설 지점. 본점보다 대기 짧지만 여전히 김 |
+| 🍳 **함바그** | **[バークレー (버클리)](https://tabelog.com/fukuoka/A4001/A400102/40001017/)** [📍](https://www.google.com/maps/search/?api=1&query=%E3%83%90%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%BC%20%E4%B8%AD%E6%B4%B2%E5%B7%9D%E7%AB%AF%20%E6%B4%8B%E9%A3%9F) | 3.49 | 나카스카와바타역 57m<br>(호텔 도보 12분) | **~999엔** | 노포 경양식집. 타베로그 분류는 카레지만 함바그 랭킹에도 오름. **카레+함바그** 조합이 명물 |
+| 🍲 우동 | **[大地のうどん 하카타역 치카텐](https://tabelog.com/fukuoka/A4001/A400101/40035066/)** [📍](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%9C%B0%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93%20%E5%8D%9A%E5%A4%9A%E9%A7%85%E3%81%A1%E3%81%8B%E3%81%A6%E3%82%93) | **3.56** | 하카타역 279m | ~999엔 | 👍 **우동 1순위**. 거대한 고보텐(우엉튀김)이 그릇을 덮음. 후쿠오카는 사실 우동의 고장 |
+| 🍲 우동 | **[牧のうどん 하카타 버스터미널점](https://tabelog.com/fukuoka/A4001/A400101/40042204/)** [📍](https://www.google.com/maps/search/?api=1&query=%E7%89%A7%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93%20%E5%8D%9A%E5%A4%9A%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E5%BA%97) | 3.52 | 하카타역 188m | ~999엔 | 면이 국물을 계속 흡수하는 독특한 식감. 현지인 소울푸드 |
+| 🍲 우동 | **[大福うどん 1번가점](https://tabelog.com/fukuoka/A4001/A400101/40027594/)** [📍](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%A6%8F%E3%81%86%E3%81%A9%E3%82%93%20%E5%8D%9A%E5%A4%9A1%E7%95%AA%E8%A1%97%E5%BA%97) | 3.50 | 하카타역 **77m**<br>(역 지하) | ~999엔 | **가장 가까움**. 시간 없을 때 확실한 선택 |
+| 🍲 우동 | **[麺屋 いしヰ](https://tabelog.com/fukuoka/A4001/A400101/40066621/)** [📍](https://www.google.com/maps/search/?api=1&query=%E9%BA%BA%E5%B1%8B%20%E3%81%84%E3%81%97%E3%83%B0%20%E5%8D%9A%E5%A4%9A) | 3.51 | 하카타역 469m | 1,000~1,999엔 | **명란버터 카마타마 우동**이 명물. 후쿠오카다운 한 그릇 |
+
+#### 추천 조합 — 팀을 나눈다면
+
+| 팀 | 추천 | 이유 |
+|---|---|---|
+| **A팀 (라멘파)** | Shin-Shin 데이토스점 | 역 안이라 이동 0분, 실패 없는 무난함 |
+| **B팀 (함바그파)** | ハンバーグの水田 | 평점 3.53, 오후 구시다신사 코스와 자연스럽게 연결 |
+| **C팀 (가볍게)** | 大地のうどん | 1,000엔 미만, 회전 빠름, 저녁 회식 대비 위 비워두기 |
+
+> ⚠️ **12:00~13:00은 점심 피크**입니다. 15~20명이 한 곳에 몰리면 전원 착석이 불가능하니 **3~5명씩 흩어지는 걸 전제**로 하세요. 위 점포 대부분은 단체 예약을 받지 않습니다.
+> ⚠️ **極味や는 유명세 대비 타베로그 평점이 낮습니다**(3.32 / 3.10). 개점~14:00가 대기 최악이라 도착 첫날 12시 방문은 비추천입니다. 꼭 가고 싶다면 **15:00~17:00**가 한산합니다.
+> 💡 **[天麩羅処ひらお アクロス店](https://tabelog.com/fukuoka/A4001/A400103/40049747/)** [📍](https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E9%BA%A9%E7%BE%85%E5%87%A6%E3%81%B2%E3%82%89%E3%81%8A%20%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E5%BA%97%20%E5%A4%A9%E7%A5%9E) (타베로그 **3.66**, 튀김 백명점) 도 좋지만 텐진이라 하카타역에서 1.7km 떨어집니다. 12/11 텐진 일정 때 점심으로 돌리는 편이 낫습니다.
+> 💡 **잇푸도 본점**은 텐진(다이묘)에 있어 첫날 점심으로는 동선이 어긋납니다. 위 표에서 제외했습니다.
 
 ### 오후 — 하카타 도보 코스 (13:30 ~ 18:00)
 숙소에서 전부 도보 or 지하철 1정거장. 첫날은 피로 고려해 강행군 금지.
@@ -510,13 +534,22 @@ JR 하카타역 → [고쿠라](https://www.google.com/maps/search/?api=1&query=
 | 나카스 야타이 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%B4%B2%E5%B1%8B%E5%8F%B0) | — | 18:00~새벽 2시 |
 | 아뮤플라자 하카타 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%97%E3%83%A9%E3%82%B6%E5%8D%9A%E5%A4%9A) | — | 우천 시 대체 |
 
-### 🍜 Day 1 먹거리
+### 🍜 Day 1 점심 후보 (라멘·함바그·우동)
 
 | 장소 | 지도 | 타베로그 | 비고 |
 |---|---|---|---|
-| 신신 (Shin-Shin) 하카타 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%20Shin-Shin%20%E5%8D%9A%E5%A4%9A%E3%83%87%E3%82%A4%E3%83%88%E3%82%B9%E5%BA%97) | — | 하카타 라멘 |
-| 이치란 나카스 본점 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E8%98%AD%20%E4%B8%AD%E6%B4%B2%E6%9C%AC%E5%BA%97) | — | 1인 칸막이석 |
-| 잇푸도 다이묘 본점 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%A2%A8%E5%A0%82%20%E5%A4%A7%E5%90%8D%E6%9C%AC%E5%BA%97) | — | 텐진 |
+| 博多一双 하카타역히가시본점 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E4%B8%80%E5%8F%8C%20%E5%8D%9A%E5%A4%9A%E9%A7%85%E6%9D%B1%E6%9C%AC%E5%BA%97) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400101/40032701/) | 3.71 / 라멘 평점 최고 |
+| Shin-Shin 하카타 데이토스점 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%20Shin-Shin%20%E5%8D%9A%E5%A4%9A%E3%83%87%E3%82%A4%E3%83%88%E3%82%B9%E5%BA%97) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400101/40035362/) | 3.57 / 역 안, 동선 최적 |
+| 名代ラーメン亭 지하상가점 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E4%BB%A3%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%AD%20%E5%8D%9A%E5%A4%9A%E9%A7%85%E5%9C%B0%E4%B8%8B%E8%A1%97%E5%BA%97) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400101/40000216/) | 3.59 / 회전 빠름 |
+| ハンバーグの水田 (함바그) | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0%E3%81%AE%E6%B0%B4%E7%94%B0%20%E7%A6%8F%E5%B2%A1%20%E6%AB%9B%E7%94%B0%E7%A5%9E%E7%A4%BE%E5%89%8D) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400101/40073167/) | 3.53 / 함바그 1순위 👍 |
+| 極味や 하카타점 (함바그) | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E6%A5%B5%E5%91%B3%E3%82%84%20%E5%8D%9A%E5%A4%9A%E5%BA%97) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400101/40039167/) | 3.32 / 유명하나 대기 최악 |
+| 極味や 하카타역 지하상가점 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E6%A5%B5%E5%91%B3%E3%82%84%20%E5%8D%9A%E5%A4%9A%E9%A7%85%E5%9C%B0%E4%B8%8B%E8%A1%97%E5%BA%97) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400101/40067994/) | 3.10 / 2024년 신설 |
+| バークレー (경양식) | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E3%83%90%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%BC%20%E4%B8%AD%E6%B4%B2%E5%B7%9D%E7%AB%AF%20%E6%B4%8B%E9%A3%9F) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400102/40001017/) | 3.49 / 카레+함바그 |
+| 大地のうどん 하카타역 치카텐 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%9C%B0%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93%20%E5%8D%9A%E5%A4%9A%E9%A7%85%E3%81%A1%E3%81%8B%E3%81%A6%E3%82%93) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400101/40035066/) | 3.56 / 우동 1순위 👍 |
+| 牧のうどん 하카타 버스터미널점 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E7%89%A7%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93%20%E5%8D%9A%E5%A4%9A%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E5%BA%97) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400101/40042204/) | 3.52 / 현지인 소울푸드 |
+| 大福うどん 1번가점 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%A6%8F%E3%81%86%E3%81%A9%E3%82%93%20%E5%8D%9A%E5%A4%9A1%E7%95%AA%E8%A1%97%E5%BA%97) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400101/40027594/) | 3.50 / 역에서 77m |
+| 麺屋 いしヰ | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E9%BA%BA%E5%B1%8B%20%E3%81%84%E3%81%97%E3%83%B0%20%E5%8D%9A%E5%A4%9A) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400101/40066621/) | 3.51 / 명란버터 카마타마 |
+| 天麩羅処ひらお アクロス店 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E9%BA%A9%E7%BE%85%E5%87%A6%E3%81%B2%E3%82%89%E3%81%8A%20%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E5%BA%97%20%E5%A4%A9%E7%A5%9E) | [🔗 타베로그](https://tabelog.com/fukuoka/A4001/A400103/40049747/) | 3.66 / 튀김 백명점, 텐진 |
 | 모츠나베 오오야마 (KITTE 하카타) | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E3%82%82%E3%81%A4%E9%8D%8B%20%E3%81%8A%E3%81%8A%E3%82%84%E3%81%BE%20KITTE%E5%8D%9A%E5%A4%9A%E5%BA%97) | — | 환영회 1순위 |
 | 모츠나베 라쿠텐치 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E3%82%82%E3%81%A4%E9%8D%8B%20%E6%A5%BD%E5%A4%A9%E5%9C%B0%20%E5%A4%A9%E7%A5%9E%E6%9C%AC%E5%BA%97) | — | 저렴·회식형 |
 | 모츠나베 야마나카 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E3%82%82%E3%81%A4%E9%8D%8B%20%E3%82%84%E3%81%BE%E4%B8%AD%20%E6%9C%AC%E5%BA%97) | — | 고급형 |
@@ -555,8 +588,6 @@ JR 하카타역 → [고쿠라](https://www.google.com/maps/search/?api=1&query=
 
 | 장소 | 지도 | 타베로그 | 비고 |
 |---|---|---|---|
-| 마코토야 우동 (牧のうどん) | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E7%89%A7%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93%20%E5%8D%9A%E5%A4%9A%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E5%BA%97) | — | 고보텐 우동 |
-| 다이치노 우동 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%9C%B0%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93%20%E5%8D%9A%E5%A4%9A%E5%BA%97) | — | 고보텐 우동 |
 | 하카타 하나미도리 (華味鳥) | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E8%8F%AF%E5%91%B3%E9%B3%A5%20%E4%B8%AD%E6%B4%B2%E6%9C%AC%E5%BA%97) | — | 미즈타키, 단체룸 |
 | 토리덴 (とり田) 하카타본점 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%8A%E7%94%B0%20%E5%8D%9A%E5%A4%9A%E6%9C%AC%E5%BA%97) | — | 미즈타키 고급형 |
 | 하카타 토리카와 다이진 | [📍 지도](https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E3%81%A8%E3%82%8A%E3%81%8B%E3%82%8F%E5%A4%A7%E8%87%A3%20%E4%B8%AD%E6%B4%B2%E6%9C%AC%E5%BA%97) | — | 닭껍질꼬치 |
